@@ -22,7 +22,7 @@ ML pipeline design, domain-aware preprocessing, and regulatory explainability.
 
 ## Project structure
 ```
-credit-risk-modelling/
+Credit-Risk-Modelling-with-Machine-Learning/
 │
 ├── credit_scoring_ml.ipynb     # Full pipeline — single notebook
 ├── requirements.txt            # Python dependencies
@@ -82,8 +82,8 @@ Logistic Regression retained as a fully auditable shadow model.
 
 ## Setup
 ```bash
-git clone https://github.com/YOUR_USERNAME/credit-risk-modelling.git
-cd credit-risk-modelling
+git clone https://github.com/Yaskoi/Credit-Risk-Modelling-with-Machine-Learning.git
+cd Credit-Risk-Modelling-with-Machine-Learning
 pip install -r requirements.txt
 jupyter notebook credit_scoring_ml.ipynb
 ```
