@@ -27,7 +27,7 @@ credit-risk-modelling/
 ├── credit_scoring_ml.ipynb     # Full pipeline — single notebook
 ├── requirements.txt            # Python dependencies
 │
-├── README.md                   # Dataset source & description
+├── README.md
 │
 └── outputs/
     ├── eda_report.html          # Auto-generated EDA report (ydata-profiling)
